@@ -2,8 +2,11 @@
 Authorized Back End, Create a Web Service that uses Basic Authentication 
 
  All about Basic Auth. 
+ 
     Authorized Back End
+    
     Create a Web Service that uses Basic Authentication
+    
     Create in your database a "user" collection with username and password. PW MUST BE ENCRYPTED IN DB
     
     User's schema:
